@@ -1,0 +1,3 @@
+/home/mika/realsense/depth/CMakeFiles/edit_cache.dir
+/home/mika/realsense/depth/CMakeFiles/rebuild_cache.dir
+/home/mika/realsense/depth/CMakeFiles/gui.dir
